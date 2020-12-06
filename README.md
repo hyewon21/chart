@@ -20,3 +20,7 @@
 
 ## <그림 A2> 범죄 검거율의 히트맵
 ![normalized_arrest](https://user-images.githubusercontent.com/75533456/101280778-54e62a80-380e-11eb-80a2-edd5d707e018.PNG)
+
+
+## <그림 A3> 범죄 간 상관계수 히트맵
+![hm_crime_corr](https://user-images.githubusercontent.com/75533456/101283234-7e0db780-381c-11eb-892e-dcdefa4101aa.PNG)
