@@ -16,5 +16,6 @@
 ![office_location](https://user-images.githubusercontent.com/75533456/101277812-59a0e380-37fa-11eb-97f3-da22409d2634.PNG)
 
 ## <그림 A1> 정규화된 범죄 발생 지표의 히트맵
+![normalized_crime](https://user-images.githubusercontent.com/75533456/101278492-e9489100-37fe-11eb-80d9-c33044470934.PNG)
 
 ## <그림 A2> 범죄 검거율의 히트맵
