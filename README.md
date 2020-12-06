@@ -19,3 +19,4 @@
 ![normalized_crime](https://user-images.githubusercontent.com/75533456/101278492-e9489100-37fe-11eb-80d9-c33044470934.PNG)
 
 ## <그림 A2> 범죄 검거율의 히트맵
+![normalized_arrest](https://user-images.githubusercontent.com/75533456/101280778-54e62a80-380e-11eb-80a2-edd5d707e018.PNG)
