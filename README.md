@@ -28,7 +28,7 @@
 ![hm_crime](https://user-images.githubusercontent.com/75533456/101520477-e77df980-39c7-11eb-8f29-b160bab310b9.PNG)
 
 ## [문제 10] - <그림 A5> 인구/CCTV 및 범죄 검거 간 상관계수 히트맵
-
+![hm_arrest](https://user-images.githubusercontent.com/75533456/101520675-290ea480-39c8-11eb-9a80-41adacd0c0bc.PNG)
 
 ## [문제 14] - <그림 V1> 로컬 호스트에서 Covid19 시각화
 ![django_covid19_local](https://user-images.githubusercontent.com/75533456/101494805-23ef2c80-39ab-11eb-819f-d99458f52ddf.PNG)
