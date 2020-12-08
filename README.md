@@ -28,4 +28,3 @@
 
 
 ## <그림 V1> 로컬 호스트에서 Covid19 시각화
-![django_covid19_local](https://user-images.githubusercontent.com/75533456/101393645-c2778100-390a-11eb-9ca8-bb653aa13b5a.PNG)
