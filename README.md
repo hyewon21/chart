@@ -27,4 +27,5 @@
 
 
 
-## <그림 V1> 로컬 호스트에서 Covid19 시각화
+## [문제 14] - <그림 V1> 로컬 호스트에서 Covid19 시각화
+![django_covid19_local](https://user-images.githubusercontent.com/75533456/101494805-23ef2c80-39ab-11eb-819f-d99458f52ddf.PNG)
