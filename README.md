@@ -24,9 +24,11 @@
 ## [문제 8] - <그림 A3> 범죄 간 상관계수 히트맵
 ![hm_crime_corr](https://user-images.githubusercontent.com/75533456/101283234-7e0db780-381c-11eb-892e-dcdefa4101aa.PNG)
 
-## [문제 9] 
+## [문제 9] - <그림 A4> 인구/CCTV 및 범죄 발생 간 상관계수 히트맵
+![hm_crime](https://user-images.githubusercontent.com/75533456/101520477-e77df980-39c7-11eb-8f29-b160bab310b9.PNG)
 
-## [문제 10] 
+## [문제 10] - <그림 A5> 인구/CCTV 및 범죄 검거 간 상관계수 히트맵
+
 
 ## [문제 14] - <그림 V1> 로컬 호스트에서 Covid19 시각화
 ![django_covid19_local](https://user-images.githubusercontent.com/75533456/101494805-23ef2c80-39ab-11eb-819f-d99458f52ddf.PNG)
