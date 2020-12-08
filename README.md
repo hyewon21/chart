@@ -24,6 +24,10 @@
 ## [문제 8] - <그림 A3> 범죄 간 상관계수 히트맵
 ![hm_crime_corr](https://user-images.githubusercontent.com/75533456/101283234-7e0db780-381c-11eb-892e-dcdefa4101aa.PNG)
 
+## [문제 9] 
+
+## [문제 10] 
+
 ## [문제 14] - <그림 V1> 로컬 호스트에서 Covid19 시각화
 ![django_covid19_local](https://user-images.githubusercontent.com/75533456/101494805-23ef2c80-39ab-11eb-819f-d99458f52ddf.PNG)
 
