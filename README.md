@@ -40,3 +40,4 @@
 ![django_covid19_local](https://user-images.githubusercontent.com/75533456/101631866-662a7380-3a68-11eb-9935-886bd9bc3cb2.PNG)
 
 ### [문제 15] - <그림 V2> 리모트 서버에서 Covid19 시각화
+![django_covid19](https://user-images.githubusercontent.com/75533456/101631925-7e9a8e00-3a68-11eb-94f9-4f29cf8e2e40.PNG)
