@@ -37,5 +37,6 @@
 ### [문제 13] - <그림 F3> 검거율 및 살인 비율 단계구분도
 
 ### [문제 14] - <그림 V1> 로컬 호스트에서 Covid19 시각화
+![django_covid19_local](https://user-images.githubusercontent.com/75533456/101631866-662a7380-3a68-11eb-9935-886bd9bc3cb2.PNG)
 
 ### [문제 15] - <그림 V2> 리모트 서버에서 Covid19 시각화
