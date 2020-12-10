@@ -13,7 +13,7 @@
 ![df_crime_2019_per_capita](https://user-images.githubusercontent.com/75533456/101273372-0ddd4280-37d8-11eb-9405-4628dd0a2d2c.PNG)
 
 ### [문제 5] - <그림 D5> 구글 지도 API를 활용하여 획득한 구청 좌표
-![office_location](https://user-images.githubusercontent.com/75533456/101277812-59a0e380-37fa-11eb-97f3-da22409d2634.PNG)
+![office_location](https://user-images.githubusercontent.com/75533456/101780295-b3c2e100-3b39-11eb-8215-32a4e332b271.PNG)
 
 ### [문제 6] - <그림 A1> 정규화된 범죄 발생 지표의 히트맵
 ![normalized_crime](https://user-images.githubusercontent.com/75533456/101278492-e9489100-37fe-11eb-80d9-c33044470934.PNG)
