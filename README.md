@@ -37,6 +37,7 @@
 ![murder_rate](https://user-images.githubusercontent.com/75533456/101993186-fd5b2980-3cfb-11eb-8b6d-ca524849d7c0.PNG)
 
 ### [문제 13] - <그림 F3> 검거율 및 살인 비율 단계구분도
+![murder_both](https://user-images.githubusercontent.com/75533456/101993229-44491f00-3cfc-11eb-8f57-06450dee2534.PNG)
 
 ### [문제 14] - <그림 V1> 로컬 호스트에서 Covid19 시각화
 ![django_covid19_local](https://user-images.githubusercontent.com/75533456/101631866-662a7380-3a68-11eb-9935-886bd9bc3cb2.PNG)
