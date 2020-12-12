@@ -34,6 +34,7 @@
 ![murder_case](https://user-images.githubusercontent.com/75533456/101993157-c258f600-3cfb-11eb-82ff-f0e5fd26d4fb.PNG)
 
 ### [문제 12] - <그림 F2> 살인 비율 단계구분도
+![murder_rate](https://user-images.githubusercontent.com/75533456/101993186-fd5b2980-3cfb-11eb-8b6d-ca524849d7c0.PNG)
 
 ### [문제 13] - <그림 F3> 검거율 및 살인 비율 단계구분도
 
