@@ -31,6 +31,7 @@
 ![hm_arrest](https://user-images.githubusercontent.com/75533456/101520675-290ea480-39c8-11eb-9a80-41adacd0c0bc.PNG)
 
 ### [문제 11] - <그림 F1> 살인 건수 단계구분도
+![murder_case](https://user-images.githubusercontent.com/75533456/101993157-c258f600-3cfb-11eb-82ff-f0e5fd26d4fb.PNG)
 
 ### [문제 12] - <그림 F2> 살인 비율 단계구분도
 
